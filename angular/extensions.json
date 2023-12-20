@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "angular.ng-template",
+        "mikael.angular-beastcode",
+        "alexiv.vscode-angular2-files",
+        "johnpapa.angular2",
+        "natewallace.angular2-inline",
+        "infinity1207.angular2-switcher",
+        "steoates.autoimport",
+        "anjali.clipboard-history",
+        "kdcro101.favorites",
+        "stringham.move-ts"
+    ]
+}
